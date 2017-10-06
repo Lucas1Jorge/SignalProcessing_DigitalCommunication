@@ -1,0 +1,13 @@
+Text_Name                          Text_Entropy  Endoded_Entropy  Encoding_Time(ms)  Decoding_Time(ms)   Size  Encoded_Size  Compression_Ratio
+english_microcosmography.txt           4.6347 		 0.9918 	 44746.4900 	 115.9661 	 472.15      251.33 	 0.53
+english_test.txt                       4.0944 		 0.9956 	 1.4420 	 0.0520 	 0.05      0.03 	 0.63
+english_the_bab.txt                    4.5987 		 0.9966 	 15105.0010 	 64.4598 	 345.48      164.29 	 0.48
+french_le_roi_du_klondike.txt          4.7143 		 1.0000 	 15205.7281 	 73.2291 	 298.00      165.32 	 0.55
+french_les_bourbons_bibliophiles.tx    4.8034 		 0.9999 	 4818.3460 	 41.3430 	 152.40      87.46 	 0.57
+french_rose_damour.txt                 4.6167 		 0.9996 	 3739.1772 	 36.6800 	 150.38      82.28 	 0.55
+german_das_gemeinsame.txt              4.6109 		 0.9904 	 7656.1241 	 44.7538 	 213.48      113.89 	 0.53
+german_der_dreispitz.txt               4.7390 		 0.9979 	 6418.7648 	 42.0470 	 190.47      102.99 	 0.54
+german_peter_und_lutz.txt              4.6938 		 1.0000 	 4151.6600 	 38.0299 	 152.13      86.78 	 0.57
+spanish_de_las_islas_filipinas.txt     4.4460 		 0.9910 	 7743.2151 	 44.3728 	 216.62      110.43 	 0.51
+spanish_germana.txt                    4.5485 		 0.9952 	 26705.5490 	 82.3410 	 406.48      206.41 	 0.51
+spanish_las_noches_mejicanas.txt       4.5471 		 0.9971 	 92081.4822 	 132.7779 	 700.15      338.61 	 0.48
